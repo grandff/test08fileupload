@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.multipart.MultipartFile;
 
-import test.com.fileupload.HomeController;
+import test.com.fileupload.controller.HomeController;
 
 public class RequestVO {
 	

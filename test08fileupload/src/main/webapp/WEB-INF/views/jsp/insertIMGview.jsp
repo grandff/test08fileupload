@@ -33,6 +33,7 @@
 
 			<h1 class="mt-3">이미지 뷰 화면</h1>	
 			<img src="/resources/uploadimg/${param.imgName }" class="rounded mx-auto d-block"/>
+			<img src="/resources/uploadimg/thumb_${param.imgName }" class="img-thumbnail"/>
 		</div>
 </body>
 </html>
